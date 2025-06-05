@@ -527,10 +527,13 @@
   stack_depot_fetch
   get_slabinfo
   vmalloc_nr_pages
+  vma_set_file
   on_each_cpu_cond_mask
   memcg_kmem_online_key
   stack_depot_print
   zero_pfn
+  __traceiter_android_vh_init_adjust_zone_wmark
+  __tracepoint_android_vh_init_adjust_zone_wmark
   try_to_del_timer_sync
   crypto_register_scomp
   crypto_unregister_scomp
